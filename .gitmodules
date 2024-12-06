@@ -1,0 +1,3 @@
+[submodule "usd"]
+	path = usd
+	url = https://github.com/zebing123/try.git
