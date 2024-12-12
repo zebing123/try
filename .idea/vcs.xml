@@ -2,6 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learngit" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/letsmove" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/move/letsmove" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my_coin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my_coin/usd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/try" vcs="Git" />
   </component>
 </project>
